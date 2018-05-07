@@ -1,0 +1,31 @@
+{
+  "name": "people_profit_api",
+  "version": "1.0.0",
+  "description": "this project in production mood",
+  "main": "people_profit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "H krishna",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "crypto": "^1.0.1",
+    "csprng": "^0.1.2",
+    "express": "^4.16.2",
+    "express-fileupload": "^0.4.0",
+    "firebase": "^4.10.0",
+    "firebase-admin": "^5.9.0",
+    "ip": "^1.1.5",
+    "jsonwebtoken": "^8.2.1",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.3",
+    "morgan": "^1.9.0",
+    "nodemailer": "^0.6.3",
+    "path": "^0.12.7",
+    "sendmail": "^1.4.1",
+    "stripe": "^5.5.0"
+  }
+}
